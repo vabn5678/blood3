@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    padding: 3px 8px;
+    margin: 15px;
+}
+
+.para {
+    margin: 10px;
+    font-size: larger;
+    font-weight: 800;
+
+}
+
+.forum {
+
+    margin: 33px;
+}
+
+#btn {
+    margin: 0 103px;
+    border-radius: 34px;
+    width: 10%;
+
+
+}
+
+.forum1 {
+    padding: 9px;
+
+
+}
+
+.input {
+    width: 20%;
+    border-radius: 34px;
+
+
+}
+
+.label {
+    font-weight: 800;
+}
